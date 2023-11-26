@@ -28,7 +28,7 @@ Download the dataset and place it in the data/ directory.
 After training, the model's performance metrics will be displayed, including accuracy, precision, recall, and F1 score.
 
 ## Acknowledgments
-* The Breast Cancer Wisconsin (Diagnostic) Data Set is courtesy of Dr. William H. Wolberg, W. Nick Street, and Olvi L. Mangasarian. Details can be found here.
+* The Breast Cancer Wisconsin (Diagnostic) Data Set is courtesy of Dr. William H. Wolberg, W. Nick Street, and Olvi L. Mangasarian.
 
 Feel free to modify and expand upon this project as needed.
 
